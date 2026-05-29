@@ -1,0 +1,1 @@
+{"approve_threshold": 0.3, "reject_threshold": 0.6, "model_type": "CatBoost"}
