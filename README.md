@@ -11,7 +11,7 @@
 
 This project develops a machine learning solution for assessing credit risk in Buy Now, Pay Later (BNPL) transactions. Using a real-world fintech dataset, we build a CatBoost classifier to predict customer default probability.
 
-The system implements a hybrid decision framework that automatically approves low-risk applicants, rejects high-risk ones, and flags borderline cases for manual review — balancing operational efficiency with risk control.
+The system implements a hybrid decision framework that automatically approves low-risk applicants, rejects high-risk ones, and flags borderline cases for manual review — balancing operational efficiency with risk control..
 
 ---
 
